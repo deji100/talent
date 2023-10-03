@@ -8,7 +8,7 @@ import TalentImage4 from "../../../../assets/talent-new-4.png";
 import TalentImage5 from "../../../../assets/talent-new-5.png";
 import TalentImage6 from "../../../../assets/talent-new6.png";
 import Logo from "../../../../assets/react.png";
-import Logo2 from "../../../../assets/Php.png";
+import Logo2 from "../../../../assets/php.png";
 import Logo3 from "../../../../assets/flutter.png";
 import Logo4 from "../../../../assets/prod-mng.png";
 import Logo5 from "../../../../assets/ui.png";
